@@ -16,3 +16,22 @@ from random import randint
 def home(request):
     context={}
     return render(request, 'invoice/index.html',context)
+
+def newinvoice(request):
+    context={}
+    return render(request, 'invoice/newinvoice.html',context)
+
+def invoice(request):
+    context={}
+    return render(request, 'invoice/invoice.html',context)
+
+def product(request):
+    context={}
+    return render(request, 'invoice/product.html',context)
+
+def customer(request):
+    context={}
+    return render(request, 'invoice/customer.html',context)
+
+
+
