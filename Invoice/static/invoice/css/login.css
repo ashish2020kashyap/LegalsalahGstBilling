@@ -1,0 +1,38 @@
+
+body .jumbotron-contact{
+
+    background-image: url(../img/contact/co2.jpeg);
+    background-size: cover;
+}
+
+body .jumbotron-tracker{
+
+    background-image: url(../img/tracker/tr3.png);
+    background-size: cover;
+}
+
+body .jumbotron-home{
+
+    background-image: url(../img/home/h1.jpg);
+    background-size: cover;
+}
+body .jumbotron-about{
+
+    background-image: url(../img/home/h3.jpeg);
+    background-size: cover;
+}
+
+
+body .jumbotron-checkout{
+
+    background-image: url(../img/checkout/ch4.png);
+    background-size: cover;
+}
+
+body .jumbotron-foot{
+
+    background-image: url(../img/checkout/ch4.png);
+    background-size: cover;
+}
+
+
